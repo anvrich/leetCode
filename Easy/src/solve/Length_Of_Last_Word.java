@@ -1,3 +1,5 @@
+package solve;
+
 public class Length_Of_Last_Word {
     public static void main(String[] args) {
         String s = "Hello Java";

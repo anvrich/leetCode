@@ -25,7 +25,7 @@
 - 
 ##### Решение:
 ```java
-public class Length_Of_Last_Word {
+public class solve.Length_Of_Last_Word {
     public static void main(String[] args) {
         String s = "Hello Java";
         int result = lengthOfLastWord(s);

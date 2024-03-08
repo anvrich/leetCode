@@ -30,7 +30,7 @@ ___
 
 ##### Решение:
 ```java
-public class Palindrome_Number {
+public class solve.Palindrome_Number {
     public static void main(String[] args) {
         int x = 121;
         System.out.println(isPalindrome(x));

@@ -1,3 +1,5 @@
+package solve;
+
 public class Palindrome_Number {
     public static void main(String[] args) {
         int x = 121;
