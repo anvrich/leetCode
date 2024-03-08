@@ -16,7 +16,7 @@
 
 ##### Решение:
 ```java
-public class SingleNumber {
+public class solve.SingleNumber {
     public static void main(String[] args) {
     int[] nums = {2,2,1};
     int uniqueNumber = singleNumber(nums);

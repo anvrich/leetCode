@@ -6,7 +6,7 @@
 - третья строка состоит из символов `"zxcvbnm"`.
 
 
-![img.png](img.png)
+![img.png](../img/img.png)
 
 
 Пример 1:
