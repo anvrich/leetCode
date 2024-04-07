@@ -4,5 +4,4 @@
 
 ## Задачи Medium
 
-#### 1. [Test](Easy/src/README_TwoSum.md) | Решение: [Test.java](Easy/src/TwoSum.java)
- 
+#### 1. [Lessons.Test1](Easy/src/README_TwoSum.md) | Решение: [Lessons.Test1.java](Easy/src/TwoSum.java)

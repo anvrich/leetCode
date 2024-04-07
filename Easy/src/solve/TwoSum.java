@@ -17,10 +17,15 @@ public class TwoSum {
     }
     public static int[] twoSum(int[] nums, int target){
         HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i< nums.length; i++){
+            System.out.print(nums[i] + " ");
+        }
+        System.out.println("\n");
        for (int i = 0; i < nums.length; i++) {
-           int tmp = target - nums[i];
-           if (map.containsKey(tmp)) {
-               return new int[]{map.get(tmp), i};
+           int tmp = target - nums[i]; // 9 - 2 = 7
+           System.out.println(tmp);
+           if (map.containsKey(tmp)) { // if 7 есть в массиве то true
+               return new int[]{map.get(tmp), i}; // возврашаем новый массыв 7, 2
            }
            map.put(nums[i], i);
        }
