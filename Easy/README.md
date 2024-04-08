@@ -3,6 +3,7 @@
 Этот репозиторий содержит решения на Java для различных задач на LeetCode.
 
 ### Задачи LeetCode - Easy
-| Название задачи                                                                          | Решение                                                                 |
-|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [Two Sum](src/md/README_TwoSum.md)                                                        | [Test.TwoSum.java](src/solve/TwoSum.java)                                    |
+| Название задачи                                              | Решение                                                              |
+|--------------------------------------------------------------|----------------------------------------------------------------------|
+| [1 Two Sum](src/solve/TwoSum/TwoSum.md)                      | [TwoSum.java](src/solve/TwoSum/TwoSum.java)                          |
+| [2 Add Two Number](src/solve/addTwoNumbers/AddTwoNumbers.md) | [AddTwoNumbers.java](src/solve/addTwoNumbers/AddTwoNumbers.java)     |
