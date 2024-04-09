@@ -64,10 +64,9 @@ public class AddTwoNumbers {
             if (p != null) p = p.next;
             if (q != null) q = q.next;
         }
-        // Добавление остаточного переноса, если он есть
         if (carry > 0) {
             cur.next = new ListNode(carry);
         }
-        return dummyHead.next; // Возвращается начало нового списка, содержащего результат сложения
+        return dummyHead.next;
     }
 }
