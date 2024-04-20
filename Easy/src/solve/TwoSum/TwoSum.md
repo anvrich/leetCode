@@ -45,7 +45,7 @@
 
 ## Использование
 
-Не стесняйтесь изучать решение на Java в файле [solve.Test.TwoSum.java](./src/TwoSum.java). Вы можете использовать это решение, чтобы понять, как эффективно решить задачу "Two Sum".
+Не стесняйтесь изучать решение на Java в файле [solve.tests.Test.TwoSum.java](./src/TwoSum.java). Вы можете использовать это решение, чтобы понять, как эффективно решить задачу "Two Sum".
 
 
 
@@ -58,7 +58,7 @@
 
 ##### Решение:
 ```java
-class Test {
+class tests.Test {
     public static int[] twoSum(int[] nums, int target){
         HashMap<Integer, Integer> map = new HashMap<>();
        for (int i = 0; i < nums.length; i++) {

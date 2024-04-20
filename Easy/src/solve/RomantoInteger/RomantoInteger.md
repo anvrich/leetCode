@@ -53,10 +53,47 @@
 Объяснение: M = 1000, CM = 900, XC = 90 и IV = 4.
  
 ```
+
 ```java
 class Solution {
-    public int r    omanToInt(String s) {
-        
+    public int romanToInt(String s) {
+        // Создаем переменную для хранения результата
+        int result = 0;
+        // Переменная для хранения предыдущего значения римской цифры
+        int prevValue = 0;
+
+        // Итерируем по каждой римской цифре в строке
+        for (int i = 0; i < s.length(); i++) {
+            // Получаем значение текущей римской цифры
+            int curValue = getValue(s.charAt(i));
+            // Если текущее значение больше предыдущего, вычитаем два раза предыдущее значение
+            // Это компенсирует то, что мы уже прибавили его к результату на предыдущей итерации
+            if (curValue > prevValue) {
+                result += curValue - 2 * prevValue;
+            } else {
+                // Иначе просто добавляем текущее значение к результату
+                result += curValue;
+            }
+            // Обновляем prevValue
+            prevValue = curValue;
+        }
+        // Возвращаем итоговый результат
+        return result;
+    }
+
+    // Метод для получения числового значения римской цифры
+    private int getValue(char roman) {
+        switch(roman) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+            default: return 0; // В случае некорректной римской цифры возвращаем 0
+        }
     }
 }
+
 ```

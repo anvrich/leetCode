@@ -31,16 +31,16 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ```java
 /**
  * Definition for singly-linked list.
- * public class ListNode {
+ * public class tests.ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     tests.ListNode next;
+ *     tests.ListNode() {}
+ *     tests.ListNode(int val) { this.val = val; }
+ *     tests.ListNode(int val, tests.ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public tests.ListNode addTwoNumbers(tests.ListNode l1, tests.ListNode l2) {
         
     }
 }
