@@ -1,3 +1,5 @@
+package solve;
+
 public class Solution258 {
     public static void main(String[] args) {
     int res = addDigits(38);
@@ -11,7 +13,7 @@ public class Solution258 {
         while (num > 10){
             int tmp = 0;
             while (num > 0) {
-                tmp += num % 10; // 
+                tmp += num % 10; //
                 num /= 10;
             }
             num = tmp;

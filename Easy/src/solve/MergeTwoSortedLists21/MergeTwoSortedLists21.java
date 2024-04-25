@@ -1,4 +1,4 @@
-package MergeTwoSortedLists21;
+package solve.MergeTwoSortedLists21;
 
 public class MergeTwoSortedLists21 {
     public static void main(String[] args) {

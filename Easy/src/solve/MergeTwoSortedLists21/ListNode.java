@@ -1,4 +1,4 @@
-package MergeTwoSortedLists21;
+package solve.MergeTwoSortedLists21;
 
 public class ListNode {
     int val;
@@ -8,7 +8,7 @@ public class ListNode {
         this.val = val;
     }
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummyHead = new ListNode(-1);
+        ListNode dummyHead = new ListNode(0);
         ListNode current = dummyHead;
 
         while (list1 != null && list2 != null) {

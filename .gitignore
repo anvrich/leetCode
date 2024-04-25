@@ -1,0 +1,10 @@
+#Easy/src/Test.java
+#out/*
+#
+#.gitignore
+#Test/*
+#/tests/
+#/Test/
+#src/tests/
+#
+out
