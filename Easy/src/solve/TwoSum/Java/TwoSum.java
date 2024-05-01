@@ -1,7 +1,4 @@
-package solve.TwoSum;
-
-import java.util.HashMap;
-import java.util.Map;
+package solve.TwoSum.Java;
 
 import java.util.HashMap;
 
