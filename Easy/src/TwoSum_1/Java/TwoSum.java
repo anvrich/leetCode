@@ -1,4 +1,4 @@
-package solve.TwoSum.Java;
+package TwoSum_1.Java;
 
 import java.util.HashMap;
 
