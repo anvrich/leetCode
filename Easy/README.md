@@ -5,6 +5,6 @@
 ### Задачи LeetCode - Easy
 | Название задачи                                              | Решение                                                             |
 |--------------------------------------------------------------|---------------------------------------------------------------------|
-| [1 Two Sum](src/TwoSum_1/Java/TwoSum.md)                      | [TwoSum_1.java](src/TwoSum_1/Java/TwoSum.java)                         |
-| [2 Add Two Number](src/solve/addTwoNumbers/AddTwoNumbers.md) | [AddTwoNumbers.java](src/solve/addTwoNumbers/AddTwoNumbers.java)    |
-| [13 Roman to Integer](src/solve/RomantoInteger/RomantoInteger.md) | [RomanToInteger.java](src/solve/RomantoInteger/RomantoInteger.java) |
+| [1 Two Sum](src/Java/TwoSum_1/Java/TwoSum.md)                      | [TwoSum_1.java](src/Java/TwoSum_1/Java/TwoSum.java)                         |
+| [2 Add Two Number](src/Java/solve/addTwoNumbers/AddTwoNumbers.md) | [AddTwoNumbers.java](src/Java/solve/addTwoNumbers/AddTwoNumbers.java)    |
+| [13 Roman to Integer](src/Java/solve/RomantoInteger/RomantoInteger.md) | [RomanToInteger.java](src/Java/solve/RomantoInteger/RomantoInteger.java) |

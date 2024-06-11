@@ -1,4 +1,4 @@
-package solve.addTwoNumbers;
+package Java.solve.addTwoNumbers;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package solve;
+package Java.solve;
 
 public class Solution169 {
     public static void main(String[] args) {

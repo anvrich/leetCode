@@ -1,6 +1,4 @@
-package solve.addTwoNumbers;
-
-import java.util.List;
+package Java.solve.addTwoNumbers;
 
 public class Test {
     public static void main(String[] args) {
