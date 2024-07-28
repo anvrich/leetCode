@@ -1,12 +1,15 @@
 package Java.J14;
 
 public class LongestCommonPrefix {
+    public static void main(String[] args) {
+        String[] strs1 = {"flower", "flow", "flight"};
+        System.out.println("Longest common prefix for strs1: " + longestCommonPrefix(strs1));
+    }
+
     public static String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";
         }
-
-
         String prefix = strs[0];
         System.out.println("Initial prefix: " + prefix);
 
@@ -19,13 +22,6 @@ public class LongestCommonPrefix {
                 }
             }
         }
-
         return prefix;
-    }
-
-    public static void main(String[] args) {
-        String[] strs1 = {"flower", "flow", "flight"};
-
-        System.out.println("Longest common prefix for strs1: " + longestCommonPrefix(strs1));
     }
 }
