@@ -1,8 +1,8 @@
-package Java.J206;
+package Java.J203;
 
 public class ListNode {
-    public int val;
-    public ListNode next;
+    int val;
+    ListNode next;
     ListNode() {}
     ListNode(int val) {
         this.val = val;
