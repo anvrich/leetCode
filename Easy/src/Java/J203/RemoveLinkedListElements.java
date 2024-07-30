@@ -1,21 +1,26 @@
 package Java.J203;
 
 public class RemoveLinkedListElements {
-//               1 -> 2 -> 6 -> 3 -> 4 -> 5 -> 6 -> null
-public static ListNode removeElements(ListNode head, int val) {
-    ListNode dummy = new ListNode(0);
-    dummy.next = head;
-    ListNode current = dummy;
-
-    while (current.next != null) {
-        if (current.next.val == val) {
-            current.next = current.next.next;
-        } else {
-            current = current.next;
+    //               1 -> 2 -> 6 -> 3 -> 4 -> 5 -> 6 -> null
+    public static ListNode removeElements(ListNode head, int val) {
+        while (head != null && head.val == val) {
+            head = head.next;
         }
+        if (head == null) {
+            return null;
+        }
+
+        ListNode current = head;
+        while (current.next != null) {
+            if (current.next.val == val) {
+                current.next = current.next.next;
+            } else {
+                current = current.next;
+            }
+        }
+
+        return head;
     }
-    return dummy.next;
-}
 //    Input: head = [1,2,6,3,4,5,6], val = 6
 //    Output: [1,2,3,4,5]
 
@@ -36,7 +41,7 @@ public static ListNode removeElements(ListNode head, int val) {
         node5.next = node6;
         node6.next = node7;
 
-        RemoveLinkedListElements.removeElements(head,val);
+        RemoveLinkedListElements.removeElements(head, val);
         PrintNode.print(head);
     }
 }
