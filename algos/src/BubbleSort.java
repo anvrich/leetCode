@@ -7,7 +7,6 @@ public class BubbleSort {
             System.out.println("Итерация " + (i + 1) + ":");
             for (int j = 0; j < n - 1 - i; j++) {
                 if (array[j] > array[j + 1]) {
-                    // Обмен элементов
                     int temp = array[j];
                     array[j] = array[j + 1];
                     array[j + 1] = temp;
