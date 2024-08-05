@@ -33,6 +33,7 @@ public class MergeTwoSortedListsSolved {
         }
         return head;
     }
+
     public static String listToString(ListNode head) {
         StringBuilder sb = new StringBuilder();
         while (head != null) {
