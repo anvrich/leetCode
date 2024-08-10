@@ -18,10 +18,10 @@ public class AnagramCheck {
     public static void main(String[] args) {
         String s1 = "anagram";
         String s2 = "nagaram";
-        System.out.println(isAnagram(s1, s2));  // Вывод: true
+        System.out.println(isAnagram(s1, s2));
 
         String s3 = "крыса";
         String s4 = "автомобиль";
-        System.out.println(isAnagram(s3, s4));  // Вывод: false
+        System.out.println(isAnagram(s3, s4));
     }
 }
