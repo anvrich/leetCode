@@ -1,11 +1,13 @@
 # Задачи LeetCode 🎯
 
 Всего задач: **3435**  
-Выполнено: **0** 
+Выполнено: **20** 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anvrich7/)
 
-[![LeetCode Problem List](https://img.shields.io/badge/LeetCode-Problem%20List-blue)](https://leetcode.com/problem-list/alcaxmxj/)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-darkgreen?style=flat&logo=codeforces&logoColor=white)](./Codeforces/src/Readme.md)
+
+[![LeetCode Problem List](https://img.shields.io/badge/LeetCode-Problem%20List-darkblue)](https://leetcode.com/problem-list/alcaxmxj/)
 **Note:** Это список задач, которые я решил.
 
 
