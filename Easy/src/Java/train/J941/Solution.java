@@ -1,4 +1,4 @@
-package Java.J941;
+package Java.train.J941;
 
 public class Solution {
     public boolean validMountainArray(int[] arr) {

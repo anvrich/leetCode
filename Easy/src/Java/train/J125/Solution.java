@@ -1,4 +1,4 @@
-package Java.J125;
+package Java.train.J125;
 
 public class Solution {
     public boolean isPalindrome(String s) {

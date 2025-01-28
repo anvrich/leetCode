@@ -1,7 +1,6 @@
-# LeetCode Solutions
-
-Этот репозиторий содержит решения на Java для различных задач на LeetCode.
-
-## Задачи Medium
-
-#### 1. [Lessons.Test1](Easy/src/README_TwoSum.md) | Решение: [Lessons.Test1.java](Easy/src/TwoSum.java)
+## 📌 Прогресс LeetCode (Medium)
+| Статус | №   | Название задачи                            | Уровень сложности |
+|--------|------|--------------------------------------------|--------------------|
+| 🔄      | 53   | Maximum Subarray                           | Medium             |
+| ❌     | 38   | Count and Say                              | Medium             |
+| ❌     | 443  | String Compression                         | Medium             |

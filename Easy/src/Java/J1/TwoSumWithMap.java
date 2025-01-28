@@ -19,10 +19,8 @@ public class TwoSumWithMap {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
 
-        // Получаем индексы пар чисел, сумма которых равна target
         int[] result = twoSum(nums, target);
 
-        // Выводим результат
         if (result.length > 0) {
             System.out.println("Индексы двух чисел: " + result[0] + " и " + result[1]);
         } else {
