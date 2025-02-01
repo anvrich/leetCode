@@ -17,9 +17,9 @@
 | 13 | ✅      | № 344 [Reverse String](src/Java/J344/Main.java)                       | Easy              |
 | 14 | ✅      | № 387 [First Unique Character in a String](src/Java/J387/Main.java)   | Easy              |
 | 15 | ✅      | № 28 [Find the Index of the First Occurrence](src/Java/J28/Main.java) | Easy              |
-| 16 | ❌      | Add Binary                                                            | Easy              |
-| 17 | ❌      | Length of Last Word                                                   | Easy              |
-| 18 | ❌      | Intersection of Two Arrays                                            | Easy              |
+| 16 | ✅      | № 67 [Add Binary](src/Java/J67/Solution.java)                         | Easy              |
+| 17 | ✅      | № 58 [Length of Last Word](src/Java/J58/Solution.java)                | Easy              |
+| 18 | ✅      | № 349 [Intersection of Two Arrays](src/Java/J349/Solution.java)       | Easy              |
 | 19 | ❌      | Contains Duplicate II                                                 | Easy              |
 | 20 | ❌      | Contains Duplicate                                                    | Easy              |
 | 21 | ❌      | Happy Number                                                          | Easy              |
