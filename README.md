@@ -4,6 +4,7 @@
 Выполнено: **24** 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anvrich7/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/anvrich7/)
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-darkgreen?style=flat&logo=codeforces&logoColor=white)](./Codeforces/src/Readme.md)
 
@@ -32,3 +33,4 @@
 [//]: # (## Полезные ресурсы 🔗)
 [//]: # (- [SQL Tutorial]&#40;https://sqlzoo.net/&#41;: Учебник по SQL.)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anvrich7?theme=dark&font=Kanit)](https://leetcode.com/u/anvrich7/)
