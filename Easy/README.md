@@ -29,23 +29,23 @@
 
 # 2 week
 
-| №  | Статус | Название задачи                                                    | Уровень сложности |
-|----|--------|--------------------------------------------------------------------|-------------------|
-| 23 | ✅      | № 577 [Reverse Words in a String III](src/Java/J577/Solution.java) | Easy              |
-| 24 | ✅      | № 9  [Palindrome Number](src/Java/j9/Solution.java)                | Easy              |
-| 25 | ✅      | № 27 [Remove Element](src/Java/j27/Solution.java)                  | Easy              |
-| 26 | ❌      | Move Zeroes                                                        | Easy              |
-| 27 | ❌      | Two Sum II - Input Array Is Sorted                                 | Medium            |
-| 28 | ❌      | Interval List Intersections                                        | Medium            |
-| 29 | ❌      | 3Sum                                                               | Medium            |
-| 30 | ❌      | Reverse Integer                                                    | Medium            |
-| 31 | ❌      | Sqrt(x)                                                            | Easy              |
-| 32 | ❌      | Roman to Integer                                                   | Easy              |
-| 33 | ❌      | Excel Sheet Column Title                                           | Easy              |
-| 34 | ❌      | Excel Sheet Column Number                                          | Easy              |
-| 35 | ❌      | Power of Three                                                     | Easy              |
-| 36 | ❌      | Valid Perfect Square                                               | Easy              |
-| 37 | ❌      | Fizz Buzz                                                          | Easy              |
-| 38 | ❌      | Reverse Words in a String                                          | Medium            |
-| 39 | ❌      | String Compression                                                 | Medium            |
-| 40 | ❌      | Detect Capital                                                     | Easy              |
+| №  | Статус | Название задачи                                                                                           | Уровень сложности |
+|----|------|-----------------------------------------------------------------------------------------------------------|-------------------|
+| 23 | ✅    | № 577 [Reverse Words in a String III](src/Java/J577/Solution.java)                                        | Easy              |
+| 24 | ✅    | № 9  [Palindrome Number](src/Java/j9/Solution.java)                                                       | Easy              |
+| 25 | ✅    | № 27 [Remove Element](src/Java/j27/Solution.java)                                                         | Easy              |
+| 26 | ✅     | № 283 [Move Zeroes](src/Java/j283/Solution.java)                                                          | Easy              |
+| 27 | ❌    | Two Sum II - Input Array Is Sorted                                                                        | Medium            |
+| 28 | ❌    | Interval List Intersections                                                                               | Medium            |
+| 29 | ❌    | 3Sum                                                                                                      | Medium            |
+| 30 | ❌    | Reverse Integer                                                                                           | Medium            |
+| 31 | ✅     | № 69 [Sqrt(x)](src/Java/j69/Solution.java)                                                                | Easy              |
+| 32 | ❌    | Roman to Integer                                                                                          | Easy              |
+| 33 | ❌    | Excel Sheet Column Title                                                                                  | Easy              |
+| 34 | ❌    | Excel Sheet Column Number                                                                                 | Easy              |
+| 35 | ❌    | Power of Three                                                                                            | Easy              |
+| 36 | ❌    | Valid Perfect Square                                                                                      | Easy              |
+| 37 | ❌    | Fizz Buzz                                                                                                 | Easy              |
+| 38 | ❌    | Reverse Words in a String                                                                                 | Medium            |
+| 39 | ❌    | String Compression                                                                                        | Medium            |
+| 40 | ❌    | Detect Capital                                                                                            | Easy              |
