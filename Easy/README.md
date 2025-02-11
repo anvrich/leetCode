@@ -45,7 +45,7 @@
 | 34 | ❌     | Excel Sheet Column Number                                          | Easy              |
 | 35 | ❌     | Power of Three                                                     | Easy              |
 | 36 | ❌     | Valid Perfect Square                                               | Easy              |
-| 37 | ❌     | Fizz Buzz                                                          | Easy              |
+| 37 | ✅      | № 412 [Fizz Buzz](src/Java/j412/Solution.java)                     | Easy              |
 | 38 | ❌     | Reverse Words in a String                                          | Medium            |
 | 39 | ❌     | String Compression                                                 | Medium            |
-| 40 | ✅      | № 520 [Detect Capital](src/Java/j520/Solution.java)                | Easy              |
+| 40 | ✅     | № 520 [Detect Capital](src/Java/j520/Solution.java)                | Easy              |
