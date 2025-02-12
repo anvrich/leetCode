@@ -1,7 +1,7 @@
 # Задачи LeetCode 🎯
 
 Всего задач: **3435**  
-Выполнено: **24** 
+Выполнено: **42** 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anvrich7/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/anvrich7/)
@@ -15,8 +15,8 @@
 
 | Уровень   | Задачи                        | Сложность      | Всего | Выполнено |
 |-----------|-------------------------------|----------------|-------|-----------|
-| 🌟 Easy   | [Easy](Easy/README.md)        | ![Easy](https://img.shields.io/badge/Уровень-Easy-brightgreen) | 853   | 23        |
-| 🚀 Medium | [Medium](Medium/README.md) | ![Medium](https://img.shields.io/badge/Уровень-Medium-yellow)  | 1789  | 1         |
+| 🌟 Easy   | [Easy](Easy/README.md)        | ![Easy](https://img.shields.io/badge/Уровень-Easy-brightgreen) | 853   | 39        |
+| 🚀 Medium | [Medium](Medium/README.md) | ![Medium](https://img.shields.io/badge/Уровень-Medium-yellow)  | 1789  | 3         |
 | 🔥 Hard   | [Hard](Hard/README.md)   | ![Hard](https://img.shields.io/badge/Уровень-Hard-red)         | 793   | 0         |
 
 
