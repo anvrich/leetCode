@@ -30,22 +30,22 @@
 # 2 week
 
 | №  | Статус | Название задачи                                                    | Уровень сложности |
-|----|-------|--------------------------------------------------------------------|-------------------|
-| 23 | ✅     | № 577 [Reverse Words in a String III](src/Java/J577/Solution.java) | Easy              |
-| 24 | ✅     | № 9  [Palindrome Number](src/Java/j9/Solution.java)                | Easy              |
-| 25 | ✅     | № 27 [Remove Element](src/Java/j27/Solution.java)                  | Easy              |
-| 26 | ✅     | № 283 [Move Zeroes](src/Java/j283/Solution.java)                   | Easy              |
-| 27 | ❌     | Two Sum II - Input Array Is Sorted                                 | Medium            |
-| 28 | ❌     | Interval List Intersections                                        | Medium            |
-| 29 | ❌     | 3Sum                                                               | Medium            |
-| 30 | ❌     | Reverse Integer                                                    | Medium            |
-| 31 | ✅     | № 69 [Sqrt(x)](src/Java/j69/Solution.java)                         | Easy              |
-| 32 | ❌     | Roman to Integer                                                   | Easy              |
-| 33 | ✅     | № 168 [Excel Sheet Column Title](src/Java/j168/Solution.java)      | Easy              |
+|----|--------|--------------------------------------------------------------------|-------------------|
+| 23 | ✅      | № 577 [Reverse Words in a String III](src/Java/J577/Solution.java) | Easy              |
+| 24 | ✅      | № 9  [Palindrome Number](src/Java/j9/Solution.java)                | Easy              |
+| 25 | ✅      | № 27 [Remove Element](src/Java/j27/Solution.java)                  | Easy              |
+| 26 | ✅      | № 283 [Move Zeroes](src/Java/j283/Solution.java)                   | Easy              |
+| 27 | ❌      | Two Sum II - Input Array Is Sorted                                 | Medium            |
+| 28 | ❌      | Interval List Intersections                                        | Medium            |
+| 29 | ❌      | 3Sum                                                               | Medium            |
+| 30 | ❌      | Reverse Integer                                                    | Medium            |
+| 31 | ✅      | № 69 [Sqrt(x)](src/Java/j69/Solution.java)                         | Easy              |
+| 32 | ❌      | Roman to Integer                                                   | Easy              |
+| 33 | ✅      | № 168 [Excel Sheet Column Title](src/Java/j168/Solution.java)      | Easy              |
 | 34 | ✅      | № 171 [Excel Sheet Column Number](src/Java/j171/Solution.java)     | Easy              |
-| 35 | ❌     | Power of Three                                                     | Easy              |
-| 36 | ❌     | Valid Perfect Square                                               | Easy              |
-| 37 | ✅     | № 412 [Fizz Buzz](src/Java/j412/Solution.java)                     | Easy              |
-| 38 | ❌     | Reverse Words in a String                                          | Medium            |
-| 39 | ❌     | String Compression                                                 | Medium            |
-| 40 | ✅     | № 520 [Detect Capital](src/Java/j520/Solution.java)                | Easy              |
+| 35 | ✅      | № 326 [Power of Three](src/Java/j326/Solution.java)                | Easy              |
+| 36 | ❌      | № 367 [Valid Perfect Square](src/Java/j367/Solution.java)          | Easy              |
+| 37 | ✅      | № 412 [Fizz Buzz](src/Java/j412/Solution.java)                     | Easy              |
+| 38 | ❌      | Reverse Words in a String                                          | Medium            |
+| 39 | ❌      | String Compression                                                 | Medium            |
+| 40 | ✅      | № 520 [Detect Capital](src/Java/j520/Solution.java)                | Easy              |
