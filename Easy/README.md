@@ -46,6 +46,6 @@
 | 35 | ✅      | № 326 [Power of Three](src/Java/j326/Solution.java)                | Easy              |
 | 36 | ❌      | № 367 [Valid Perfect Square](src/Java/j367/Solution.java)          | Easy              |
 | 37 | ✅      | № 412 [Fizz Buzz](src/Java/j412/Solution.java)                     | Easy              |
-| 38 | ❌      | Reverse Words in a String                                          | Medium            |
+| 38 | ✅      | № 152 [Reverse Words in a String](src/Java/j151/Solution.java)     | Medium            |
 | 39 | ❌      | String Compression                                                 | Medium            |
 | 40 | ✅      | № 520 [Detect Capital](src/Java/j520/Solution.java)                | Easy              |
