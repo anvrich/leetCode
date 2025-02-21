@@ -9,6 +9,6 @@
 | 30 | ✅      | № 7 [Reverse Integer](src/Java/j7/Solution.java)                        | Medium            |
 | 27 | ✅      | № 167 [Two Sum II - Input Array Is Sorted](src/Java/j167/Solution.java) | Medium            |
 | 28 | ✅      | № 986 [Interval List Intersections](src/Java/j986/Solution.java)        | Medium            |
-| 29 | ❌      | 3Sum                                                                    | Medium            |
+| 29 | ✅      | №15 [3Sum](src/Java/j15/Solution.java)                                  | Medium            |
 | 38 | ✅      | № 151 [Reverse Words in a String](src/Java/j151/Solution.java)          | Medium            |
 | 39 | ❌      | String Compression                                                      | Medium            |
