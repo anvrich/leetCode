@@ -27,8 +27,6 @@
 | 21 | ✅      | № 202 [Happy Number](src/Java/J202/Solution.java)                     | Easy              |
 | 22 | ✅      | № 705 [Design HashSet](src/Java/J705/MyHashSet.java)                  | Easy              |
 
-# 2 week
-
 | №  | Статус | Название задачи                                                    | Уровень сложности |
 |----|--------|--------------------------------------------------------------------|-------------------|
 | 23 | ✅      | № 577 [Reverse Words in a String III](src/Java/J577/Solution.java) | Easy              |
@@ -43,3 +41,4 @@
 | 32 | ✅      | № 367 [Valid Perfect Square](src/Java/j367/Solution.java)          | Easy              |
 | 33 | ✅      | № 412 [Fizz Buzz](src/Java/j412/Solution.java)                     | Easy              |
 | 34 | ✅      | № 520 [Detect Capital](src/Java/j520/Solution.java)                | Easy              |
+| 34 | ✅      | № 414 [Third Maximum Number](src/Java/j414/Solution.java)          | Easy              |
