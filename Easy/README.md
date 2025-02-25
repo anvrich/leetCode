@@ -41,4 +41,4 @@
 | 32 | ✅      | № 367 [Valid Perfect Square](src/Java/j367/Solution.java)          | Easy              |
 | 33 | ✅      | № 412 [Fizz Buzz](src/Java/j412/Solution.java)                     | Easy              |
 | 34 | ✅      | № 520 [Detect Capital](src/Java/j520/Solution.java)                | Easy              |
-| 34 | ✅      | № 414 [Third Maximum Number](src/Java/j414/Solution.java)          | Easy              |
+| 35 | ✅      | № 905 [Sort Array By Parity](src/Java/j905/Solution.java)          | Easy              |
