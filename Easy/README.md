@@ -42,3 +42,6 @@
 | 36 | ✅      | № 1089 [Duplicate Zeros](src/Java/j1089/Solution.java)                    | Easy              |
 | 37 | ✅      | № 448 [Find All Number Disappeared in Array](src/Java/j448/Solution.java) | Easy              |
 | 38 | ✅      | № 500 [Keyboard Row](src/Java/j500/Solution.java)                         | Easy              |
+| 39 | ✅      | № 228 [Summary Ranges](src/Java/j228/Solution.java)                       | Easy              |
+| 40 | ✅      | № 268 [Missing Number](src/Java/j268/Solution.java)                       | Easy              |
+| 41 | ✅      | № 2418 [Sort the People](src/Java/j2418/Solution.java)                    | Easy              |
