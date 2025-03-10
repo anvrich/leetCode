@@ -45,3 +45,4 @@
 | 39 | ✅      | № 228 [Summary Ranges](src/Java/j228/Solution.java)                       | Easy              |
 | 40 | ✅      | № 268 [Missing Number](src/Java/j268/Solution.java)                       | Easy              |
 | 41 | ✅      | № 2418 [Sort the People](src/Java/j2418/Solution.java)                    | Easy              |
+| 42 | ✅      | № 455 [Assign Cookies](src/Java/j455/Solution.java)                       | Easy              |
